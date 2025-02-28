@@ -1,2 +1,2 @@
 this file for merge status
-city: none
+city: bangalore
